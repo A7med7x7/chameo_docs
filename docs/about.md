@@ -1,6 +1,6 @@
 # About
 
-**ReproGen**A Template Generator for Reproducible Machine Learning Projects on Chameleon Cloud
+**Chameo**A Template Generator for Reproducible Machine Learning Projects on Chameleon Cloud
 
 
 - [GitHub Repository](https://github.com/A7med7x7/ReproGen/)
