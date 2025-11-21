@@ -1,4 +1,4 @@
-# Opinions
+# Options
 ## Setup Parameters and Their Roles
 Your answers will generate a project based on your input values, below you can find the variables with their description and implications  
 
@@ -68,7 +68,7 @@ The site where your leases at, and compute resources will be provisioned.
 
 - CHI@TACC: Texas Advanced Computing Center
 - CHI@UC: University of Chicago
-- **auto** is usually the best choice unless you have a reason to store data in a specific  location. it matches your selected `chameleon_site` if object storage containers are available, if not it defaults to CHI@TACC site. 
+- **auto** is usually the best choice unless you have a reason to store data in a specific location. it matches your selected `chameleon_site` if object storage containers are available, if not it defaults to CHI@TACC site. 
 - **Type:** `select`
 - **Default**: `CHI@TACC`
 

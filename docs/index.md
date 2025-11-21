@@ -33,7 +33,7 @@ It provides **ready-to-launch templates** with experiment tracking, consistent e
 * Lowers the barrier to reproducible experiments on Chameleon Cloud
 
 > [!TIP]
- Use the **[mlflow-replay](https://github.com/A7med7x7/chameo/tree/mlflow-replay)** setup to reload and inspect past experiments stored on Chameleon Cloud, useful for revisiting, validating, or extending previous runs.
+ Use the **[experiment replay](./replay.md)** setup to reload and inspect past experiments stored on Chameleon Cloud, useful for revisiting, validating, or extending previous runs.
 
 ---
 
@@ -43,13 +43,13 @@ Chameo requires Python 3.9+. we recommend installing it with pipx. Installation 
 === "With pipx (recommended)"
 
     ```bash
-    pipx install copier
+    pipx install chameo
     ```
 
 === "With pip"
 
     ```bash
-    pip install copier
+    pip install chameo
     ```
 
 === "With conda (coming soon!)"
