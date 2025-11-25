@@ -1,14 +1,25 @@
-site_name: ReproGen Documentation
+site_name: Chameo Documentation
 site_url: https://your-site-url.com
-repo_url: https://github.com/A7med7x7/ReproGen/
+repo_url: https://github.com/A7med7x7/chameo/
 theme:
   name: material
-  logo: null
-  favicon: null
+  logo: "images/logo.png"
+  favicon: "images/logo.png"
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 nav:
-  - Home: index.md
-  - Why ReproGen: why.md
-  - Opinions: opinions.md
+  - Home: home.md
+  - Why Chameo: why.md
+  - Options: options.md
+  - Experiment Replay: replay.md
   - About: about.md
 markdown_extensions:
   - admonition
