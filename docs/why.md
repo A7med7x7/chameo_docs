@@ -4,7 +4,7 @@
 
 ## **Reproducibility** 
 Reproducibility in Machine Learning means being able to reproduce the results of an experiment using the same code, with the same data and environment, and obtain the same results.  
-in research, this remains a **significant problem**, many papers lack proper experiment tracking, dependency capturing, versioning, and artifact sharing. As a result, even the original authors often struggle to reproduce their own results several months later.
+in research, this remains a **significant problem**, it is hard to  many papers lack proper experiment tracking, dependency capturing, versioning, and artifact sharing. As a result, even the original authors often struggle to reproduce their own results several months later.
 
 this weakens trust and slows scientific progress, since others cannot easily validate or build upon previous work.  
 in production, however, **MLOps practices** (automation, versioning, monitoring) have proven to be key enablers of reproducible and trustworthy ML systems. 
