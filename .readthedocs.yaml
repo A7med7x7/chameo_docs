@@ -15,4 +15,4 @@ mkdocs:
 # Install the required dependencies
 python:
   install:
-    - pip: mkdocs-material
+    - requirements: requirements.txt
