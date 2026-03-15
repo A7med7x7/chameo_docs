@@ -16,7 +16,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 nav:
-  - Home: home.md
+  - Home: index.md
   - Why Chameo: why.md
   - Options: options.md
   - Experiment Replay: replay.md
